@@ -34,6 +34,7 @@
 
 ### 📫 Connect with me
 
+<!-- 
 <p>
   <a href="https://fdomerlo.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-fdomerlo.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -42,3 +43,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-Fernando_Merlo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+-->
